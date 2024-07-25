@@ -4,7 +4,7 @@
 This project involves analyzing and processing a dataset of Russian tweets to extract valuable insights and patterns.
 
 ## Dataset
-The dataset used for this analysis consists of Russian tweets collected from [source/link].
+The dataset used for this analysis consists of Russian tweets collected from Kaggle.com[https://www.kaggle.com/datasets/vikasg/russian-troll-tweets].
 
 ## Project Steps
 1. **Data Cleaning**:
