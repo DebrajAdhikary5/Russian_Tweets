@@ -18,6 +18,8 @@ The dataset used for this analysis consists of Russian tweets collected from [so
 3. **Sentiment Analysis**:
    - Performed sentiment analysis to classify tweets as positive, negative, or neutral.
    - Visualized sentiment distribution.
+   - ![Trends](Trends.jpg)
+   - ![3_plots](3_plot.png)
 
 4. **Topic Modeling**:
    - Implemented topic modeling to identify common themes in the tweets.
